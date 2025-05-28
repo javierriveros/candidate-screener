@@ -1,0 +1,850 @@
+[
+  {
+    "id": "6972730a-3ecd-4458-a90f-8f78c9c9f773",
+    "name": "Candidate 1",
+    "email": "candidate.1.0@example.com",
+    "experience": 20,
+    "location": "Chile",
+    "bio": "Professional working as Ruby + (Golang/Rust) Engineer",
+    "jobTitle": "Ruby + (Golang/Rust) Engineer",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Chile",
+    "creationTime": "45524.67774305555",
+    "stage": "Sourced",
+    "source": "Uploaded",
+    "type": "UploadedCandidate",
+    "keywords": "ruby|ruby on rails|postgresql|Golang|React",
+    "educations": "Graduate Degree Artificial Intelligence at Pontifical Catholic University of Paraná (Jan 2019 to Dec 2021) | at Apple Developers Academy (Jan 2013 to Dec 2014) | Digital Games and Development at Pontifical Catholic University of Paraná (Jan 2013 to Dec 2018)",
+    "experiences": "Senior Ruby at (Jan 2024 to N/A) | Senior Ruby at (Jan 2021 to N/A) | Engineering Manager at Delivery Center (Jan 2020 to Dec 2022) | Lead Engineer at (Jan 2019 to Dec 2020) | Senior Software Engineer at (Jan 2018 to Dec 2019) | Engineering Manager at (Jan 2017 to Dec 2018) | Software Engineer at Snowman Labs (Jan 2017 to Dec 2017) | Software Engineer at Esfera Tecnologia da Informação (Jan 2016 to Dec 2017) | Software Engineer at Soluções VendaMais (Jan 2016 to Dec 2018) | Information Technology Teacher at Pontifícia Universidade Católica do Paraná (Jan 2014 to Dec 2018) | Video Editor at FACULDADE SÃO BRAZ (Jan 2012 to Dec 2014)",
+    "education": [
+      "Graduate Degree Artificial Intelligence at Pontifical Catholic University of Paraná (Jan 2019 to Dec 2021)",
+      "at Apple Developers Academy (Jan 2013 to Dec 2014)",
+      "Digital Games and Development at Pontifical Catholic University of Paraná (Jan 2013 to Dec 2018)"
+    ],
+    "workHistory": [
+      "Senior Ruby at (Jan 2024 to N/A)",
+      "Senior Ruby at (Jan 2021 to N/A)",
+      "Engineering Manager at Delivery Center (Jan 2020 to Dec 2022)",
+      "Lead Engineer at (Jan 2019 to Dec 2020)",
+      "Senior Software Engineer at (Jan 2018 to Dec 2019)",
+      "Engineering Manager at (Jan 2017 to Dec 2018)",
+      "Software Engineer at Snowman Labs (Jan 2017 to Dec 2017)",
+      "Software Engineer at Esfera Tecnologia da Informação (Jan 2016 to Dec 2017)",
+      "Software Engineer at Soluções VendaMais (Jan 2016 to Dec 2018)",
+      "Information Technology Teacher at Pontifícia Universidade Católica do Paraná (Jan 2014 to Dec 2018)",
+      "Video Editor at FACULDADE SÃO BRAZ (Jan 2012 to Dec 2014)"
+    ],
+    "availability": "immediate"
+  },
+  {
+    "id": "b5b95a2a-2cad-4e8e-ba4c-69897142ee96",
+    "name": "Candidate 2",
+    "email": "candidate.2.1@example.com",
+    "experience": 16,
+    "location": "Chile",
+    "bio": "Professional working as Ruby + (Golang/Rust) Engineer",
+    "jobTitle": "Ruby + (Golang/Rust) Engineer",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Chile",
+    "creationTime": "45524.67008101852",
+    "stage": "Sourced",
+    "source": "Uploaded",
+    "type": "UploadedCandidate",
+    "keywords": "ruby|ruby on rails|Golang|React",
+    "educations": "Análise E Desenvolvimento De Sistemas, Tecnologia Da Informação at Federal University of Technology – Paraná (N/A to Jan 2015)",
+    "experiences": "Full Stack Engineer at Tradener (Aug 2023 to Jan 2024) | Senior Software Engineer at ArcTouch - Mobile & Connected Experiences (Feb 2021 to May 2023) | Senior Software Engineer at CWS (Feb 2020 to Feb 2021) | Full Stack Developer at Mercafácil (May 2019 to Aug 2019) | Full Stack Developer at CINQ Technologies (Dec 2018 to May 2019) | Rails Engineer at KARZEN Technologies (Oct 2018 to Dec 2018) | Software Developer at ∞ eits (Aug 2016 to Feb 2017) | Software Development Intern at ITAI - Instituto de Tecnologia Aplicada e Inovação (Aug 2013 to Mar 2014)",
+    "education": [
+      "Análise E Desenvolvimento De Sistemas, Tecnologia Da Informação at Federal University of Technology – Paraná (N/A to Jan 2015)"
+    ],
+    "workHistory": [
+      "Full Stack Engineer at Tradener (Aug 2023 to Jan 2024)",
+      "Senior Software Engineer at ArcTouch - Mobile & Connected Experiences (Feb 2021 to May 2023)",
+      "Senior Software Engineer at CWS (Feb 2020 to Feb 2021)",
+      "Full Stack Developer at Mercafácil (May 2019 to Aug 2019)",
+      "Full Stack Developer at CINQ Technologies (Dec 2018 to May 2019)",
+      "Rails Engineer at KARZEN Technologies (Oct 2018 to Dec 2018)",
+      "Software Developer at ∞ eits (Aug 2016 to Feb 2017)",
+      "Software Development Intern at ITAI - Instituto de Tecnologia Aplicada e Inovação (Aug 2013 to Mar 2014)"
+    ],
+    "availability": "immediate"
+  },
+  {
+    "id": "4423dc7e-64bf-47a2-abd9-ec74048cb8da",
+    "name": "Candidate 3",
+    "email": "candidate.3.2@example.com",
+    "experience": 4,
+    "location": "Chile",
+    "bio": "Professional working as Ruby + (Golang/Rust) Engineer",
+    "jobTitle": "Ruby + (Golang/Rust) Engineer",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Chile",
+    "creationTime": "45524.67008101852",
+    "stage": "Sourced",
+    "source": "Uploaded",
+    "type": "UploadedCandidate",
+    "keywords": "ruby|ruby on rails|postgresql",
+    "educations": "at Nagaoka University of Technology (Jan 2019 to Jan 2019) | Ingeniería Informática, Gestión De Proyectos De Tecnología De La Información at Universidad Pública de Navarra (Jan 2017 to Jan 2018) | Computer Systems and Artificial Intelligence at Universidad de Guanajuato (Jan 2013 to Jan 2018)",
+    "experiences": "Software Developer at Apptegy (Feb 2021 to Jan 2024) | Software Developer at Thincode (Mar 2019 to Feb 2021)",
+    "education": [
+      "at Nagaoka University of Technology (Jan 2019 to Jan 2019)",
+      "Ingeniería Informática, Gestión De Proyectos De Tecnología De La Información at Universidad Pública de Navarra (Jan 2017 to Jan 2018)",
+      "Computer Systems and Artificial Intelligence at Universidad de Guanajuato (Jan 2013 to Jan 2018)"
+    ],
+    "workHistory": [
+      "Software Developer at Apptegy (Feb 2021 to Jan 2024)",
+      "Software Developer at Thincode (Mar 2019 to Feb 2021)"
+    ],
+    "availability": "immediate"
+  },
+  {
+    "id": "43da926e-7dc9-4bfb-98e0-a99f027646b0",
+    "name": "Candidate 4",
+    "email": "candidate.4.3@example.com",
+    "experience": 16,
+    "location": "Chile",
+    "bio": "Professional working as Ruby + (Golang/Rust) Engineer",
+    "jobTitle": "Ruby + (Golang/Rust) Engineer",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Chile",
+    "creationTime": "45524.670069444444",
+    "stage": "Sourced",
+    "source": "Uploaded",
+    "type": "UploadedCandidate",
+    "keywords": "ruby|ruby on rails|Golang",
+    "educations": "Cloud Computing at Pontifical Catholic University of Minas Gerais (Jan 2021 to Jan 2022) | Bachelor of Technology Systems Development at São Paulo State Technological College (Jan 2013 to Jan 2015)",
+    "experiences": "Senior Software Engineer at Hubstaff (Jul 2024 to N/A) | Senior Software Engineer at Mercado Livre (Apr 2022 to Jul 2024) | Senior Software Engineer at enjoei (May 2021 to Apr 2022) | Senior Ruby and Rails Engineer at PagSeguro PagBank (Aug 2019 to May 2021) | Software Engineer at Locaweb (Jul 2018 to Aug 2019) | Software Engineer at Daitan Group (May 2017 to Jul 2018) | Rails Developer at Gympass (Nov 2016 to May 2017) | Ruby Developer at Caiena (Jun 2015 to May 2016)",
+    "education": [
+      "Cloud Computing at Pontifical Catholic University of Minas Gerais (Jan 2021 to Jan 2022)",
+      "Bachelor of Technology Systems Development at São Paulo State Technological College (Jan 2013 to Jan 2015)"
+    ],
+    "workHistory": [
+      "Senior Software Engineer at Hubstaff (Jul 2024 to N/A)",
+      "Senior Software Engineer at Mercado Livre (Apr 2022 to Jul 2024)",
+      "Senior Software Engineer at enjoei (May 2021 to Apr 2022)",
+      "Senior Ruby and Rails Engineer at PagSeguro PagBank (Aug 2019 to May 2021)",
+      "Software Engineer at Locaweb (Jul 2018 to Aug 2019)",
+      "Software Engineer at Daitan Group (May 2017 to Jul 2018)",
+      "Rails Developer at Gympass (Nov 2016 to May 2017)",
+      "Ruby Developer at Caiena (Jun 2015 to May 2016)"
+    ],
+    "availability": "immediate"
+  },
+  {
+    "id": "38cd90e5-0191-408f-841d-6a0d3e42d981",
+    "name": "Candidate 5",
+    "email": "candidate.5.4@example.com",
+    "experience": 10,
+    "location": "Chile",
+    "bio": "Professional working as Ruby + (Golang/Rust) Engineer",
+    "jobTitle": "Ruby + (Golang/Rust) Engineer",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Chile",
+    "creationTime": "45524.670069444444",
+    "stage": "Sourced",
+    "source": "Uploaded",
+    "type": "UploadedCandidate",
+    "keywords": "ruby|ruby on rails|postgresql",
+    "educations": "Ingeniería, Ingeniería Informática at Metropolitan University of Technology (Jan 2011 to Jan 2017)",
+    "experiences": "Backend Developer at Papa John's Chile (Nov 2020 to Jun 2021) | Backend Developer at Mercat (Nov 2020 to N/A) | Rails Developer at Human Search (Jun 2020 to Nov 2020) | Rails Developer at 4Talent (Mar 2019 to May 2019) | Rails Developer at FELITECH Consulting (Nov 2017 to Feb 2019)",
+    "education": [
+      "Ingeniería, Ingeniería Informática at Metropolitan University of Technology (Jan 2011 to Jan 2017)"
+    ],
+    "workHistory": [
+      "Backend Developer at Papa John's Chile (Nov 2020 to Jun 2021)",
+      "Backend Developer at Mercat (Nov 2020 to N/A)",
+      "Rails Developer at Human Search (Jun 2020 to Nov 2020)",
+      "Rails Developer at 4Talent (Mar 2019 to May 2019)",
+      "Rails Developer at FELITECH Consulting (Nov 2017 to Feb 2019)"
+    ],
+    "availability": "immediate"
+  },
+  {
+    "id": "210d5d25-d89d-429f-a1a4-7bcdf39ba81a",
+    "name": "Candidate 6",
+    "email": "candidate.6.5@example.com",
+    "experience": 6,
+    "location": "Chile",
+    "bio": "Professional working as Ruby + (Golang/Rust) Engineer",
+    "jobTitle": "Ruby + (Golang/Rust) Engineer",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Chile",
+    "creationTime": "45524.670069444444",
+    "stage": "Sourced",
+    "source": "Uploaded",
+    "type": "UploadedCandidate",
+    "keywords": "ruby|ruby on rails|postgresql|React",
+    "educations": "Bachelor of Science Ingeniería Informática at University of Holguín (Jan 2009 to Jan 2014) | Certificate (Advanced Level) Examination ,Sri Lanka Year 2007, Mathematica at Galahitiyawa Central College (Jan 1996 to Jan 2005)",
+    "experiences": "Senior Developer at FollowUP Customer Experience (Aug 2019 to N/A) | Senior Developer at PlagLabs (Jan 2019 to Jul 2019) | Developer at WebCarga (Aug 2015 to Jan 2019)",
+    "education": [
+      "Bachelor of Science Ingeniería Informática at University of Holguín (Jan 2009 to Jan 2014)",
+      "Certificate (Advanced Level) Examination ,Sri Lanka Year 2007, Mathematica at Galahitiyawa Central College (Jan 1996 to Jan 2005)"
+    ],
+    "workHistory": [
+      "Senior Developer at FollowUP Customer Experience (Aug 2019 to N/A)",
+      "Senior Developer at PlagLabs (Jan 2019 to Jul 2019)",
+      "Developer at WebCarga (Aug 2015 to Jan 2019)"
+    ],
+    "availability": "immediate"
+  },
+  {
+    "id": "e7c950fe-e094-43c7-8bdc-fa90170d31dc",
+    "name": "Candidate 7",
+    "email": "candidate.7.6@example.com",
+    "experience": 14,
+    "location": "Colombia",
+    "bio": "Professional working as Lead Generator. Skilled in Administration",
+    "jobTitle": "Lead Generator",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Colombia",
+    "creationTime": "45523.47949074074",
+    "stage": "Sourcer Screening",
+    "source": "linkedin.com free",
+    "type": "ManualCandidate",
+    "educations": "Bachelor of Arts Sport and Social at University of Bath (N/A to Dec 2014)",
+    "experiences": "Business Development Representative at Smith.ai (May 2023 to N/A) | Advisorist at (Oct 2022 to Mar 2023) | Inside Sales Executive at Dental Departures (Worldwide) (Sep 2021 to Mar 2022) | Property Manager Assistant at TrustHome Properties (Oct 2020 to N/A) | Customer Service Representative at TUI (Jul 2018 to Jan 2021) | Marketing Executive at Paris Smith (Jan 2016 to Dec 2017) | Personal Assistant at Orangetheory Fitness (Jan 2015 to Dec 2015)",
+    "skills": [
+      "Administration"
+    ],
+    "education": [
+      "Bachelor of Arts Sport and Social at University of Bath (N/A to Dec 2014)"
+    ],
+    "workHistory": [
+      "Business Development Representative at Smith.ai (May 2023 to N/A)",
+      "Advisorist at (Oct 2022 to Mar 2023)",
+      "Inside Sales Executive at Dental Departures (Worldwide) (Sep 2021 to Mar 2022)",
+      "Property Manager Assistant at TrustHome Properties (Oct 2020 to N/A)",
+      "Customer Service Representative at TUI (Jul 2018 to Jan 2021)",
+      "Marketing Executive at Paris Smith (Jan 2016 to Dec 2017)",
+      "Personal Assistant at Orangetheory Fitness (Jan 2015 to Dec 2015)"
+    ],
+    "questions": [
+      {
+        "question": "From 1 to 10, how would you consider your LinkedIn Sales Navigator knowledge?",
+        "answer": "true"
+      },
+      {
+        "question": "Please describe your experience as lead generator or sales development representative.",
+        "answer": "I worked as a Personal Assistant for the CEO of Orangetheory Fitness handling both professional and personal tasks from business related rganization to personal trip planning."
+      },
+      {
+        "question": "The max compensation for this role is USD 1200 per month + benefits, please confirm you are okay with this.",
+        "answer": "Yes I worked for 2 years as a Marketing Executive for a Law Firm in England during which time I planned and executed business events and seminars (from marketing on the website, sending out invites and on the day seminar preparations). I also planned many staff events and parties, and more notable helped with the planning and organization of a black tie dinner and dance for 400 Women in Business."
+      },
+      {
+        "question": "Do you currently live in Latin America?",
+        "answer": "true"
+      },
+      {
+        "question": "How many years of experience do you have as a Lead Generator?",
+        "answer": "Asana, Click Up, Process Street"
+      },
+      {
+        "question": "How many years of experience do you have as a Lead Generator?",
+        "answer": "true"
+      }
+    ],
+    "availability": "immediate"
+  },
+  {
+    "id": "e5fb402e-0f70-4b1e-84de-bbad76c8034e",
+    "name": "Candidate 8",
+    "email": "candidate.8.7@example.com",
+    "experience": 10,
+    "location": "Colombia",
+    "bio": "Professional working as Lead Generator. Seeking new opportunities to contribute to innovative projects and grow professionally in a dynamic team environment.",
+    "jobTitle": "Lead Generator",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Colombia",
+    "creationTime": "45519.50357638889",
+    "stage": "Sourcer Screening",
+    "tags": "applied",
+    "source": "linkedin.com free",
+    "type": "ManualCandidate",
+    "experiences": "Social Media Manager at Regional Subdustribution coordinato (Jan 2021 to Dec 2022) | Community Manager Junior at Tiburonzzito (Jan 2019 to Dec 2019) | Community Manager at SA Autocredit (Jan 2017 to Dec 2019) | Sales Manager at Spaceland (Jan 2017 to Dec 2017) | Business Development Executive at Infotech Global Solutions (N/A to N/A)",
+    "workHistory": [
+      "Social Media Manager at Regional Subdustribution coordinato (Jan 2021 to Dec 2022)",
+      "Community Manager Junior at Tiburonzzito (Jan 2019 to Dec 2019)",
+      "Community Manager at SA Autocredit (Jan 2017 to Dec 2019)",
+      "Sales Manager at Spaceland (Jan 2017 to Dec 2017)",
+      "Business Development Executive at Infotech Global Solutions (N/A to N/A)"
+    ],
+    "questions": [
+      {
+        "question": "From 1 to 10, how would you consider your LinkedIn Sales Navigator knowledge?",
+        "answer": "true"
+      },
+      {
+        "question": "Please describe your experience as lead generator or sales development representative.",
+        "answer": "I used to be the personal assistant for the CEO on a company called Bython Inc. I used to manage every payment, travel and meetings he had along with company tasks HR related such as payroll and staff management"
+      },
+      {
+        "question": "The max compensation for this role is USD 1200 per month + benefits, please confirm you are okay with this.",
+        "answer": "I used to coordinate company events in my previous job"
+      },
+      {
+        "question": "Do you currently live in Latin America?",
+        "answer": "true"
+      },
+      {
+        "question": "How many years of experience do you have as a Lead Generator?",
+        "answer": "Monday.com"
+      },
+      {
+        "question": "How many years of experience do you have as a Lead Generator?",
+        "answer": "true"
+      }
+    ],
+    "availability": "immediate"
+  },
+  {
+    "id": "b0624971-2cac-4d3a-b5a6-435c3e7a6e60",
+    "name": "Candidate 9",
+    "email": "candidate.9.8@example.com",
+    "experience": 2,
+    "location": "Chile",
+    "bio": "Professional working as Ruby + (Golang/Rust) Engineer",
+    "jobTitle": "Ruby + (Golang/Rust) Engineer",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Chile",
+    "creationTime": "45524.027337962965",
+    "stage": "Applied",
+    "source": "unknown",
+    "type": "ManualCandidate",
+    "educations": "Master of Arts Irish Studies at University of Liverpool (Sep 2008 to Dec 2009) | Bachelor of Arts History at University of Central Florida (Aug 2004 to Aug 2008)",
+    "experiences": "Senior Recruiter at Specialized Bicycle Components None (Apr 2022 to Jun 2024)",
+    "education": [
+      "Master of Arts Irish Studies at University of Liverpool (Sep 2008 to Dec 2009)",
+      "Bachelor of Arts History at University of Central Florida (Aug 2004 to Aug 2008)"
+    ],
+    "workHistory": [
+      "Senior Recruiter at Specialized Bicycle Components None (Apr 2022 to Jun 2024)"
+    ],
+    "disqualified": true,
+    "disqualifiedAt": "45524.027349537035",
+    "disqualificationCategory": "Rejected candidate",
+    "disqualificationReason": "Doesn't have required qualifications",
+    "disqualificationNote": "Do you have 4+ years of professional experience as a Software Engineer? No | Do you have at least 3 years of experience with Ruby on Rails? (recent experience) No | Are you located in Latin America? No",
+    "questions": [
+      {
+        "question": "Describe your experience with either Golang or Rust.",
+        "answer": "N/A"
+      },
+      {
+        "question": "Do you have an experience in a startup environment? Tell us about your experience.",
+        "answer": "Yes, I have experience in a startup environment."
+      }
+    ],
+    "availability": "not-available"
+  },
+  {
+    "id": "f12f0e64-aac4-4239-a185-67cbc6f5bca4",
+    "name": "Candidate 10",
+    "email": "candidate.10.9@example.com",
+    "experience": 10,
+    "location": "Mexico",
+    "bio": "DevOps Engineer. Seeking new opportunities to contribute to innovative projects and grow professionally in a dynamic team environment.",
+    "jobTitle": "Senior DevOps Engineer - AWS",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Mexico",
+    "headline": "DevOps Engineer",
+    "creationTime": "45523.71418981482",
+    "stage": "Applied",
+    "source": "startup.jobs",
+    "type": "ManualCandidate",
+    "educations": "Master of Science Information Systems at Northeastern University (Jan 2015 to Dec 2017) | Bachelor of Engineering Computer Science and Engineering at University College of Engineering, Osmania University (Jan 2005 to Dec 2009)",
+    "experiences": "Devops Engineer at Upstart Network (Jun 2022 to May 2024) | Senior Engineer at Blue Cross Blue Shield of Massachusetts (Nov 2019 to Mar 2022) | Internal Application Developer at Tracelink (Aug 2017 to Nov 2019) | Advanced Consultant at OpenText Technologies (Mar 2014 to Aug 2014) | Associate at Cognizant Technologies Solutions (Dec 2009 to Feb 2014)",
+    "education": [
+      "Master of Science Information Systems at Northeastern University (Jan 2015 to Dec 2017)",
+      "Bachelor of Engineering Computer Science and Engineering at University College of Engineering, Osmania University (Jan 2005 to Dec 2009)"
+    ],
+    "workHistory": [
+      "Devops Engineer at Upstart Network (Jun 2022 to May 2024)",
+      "Senior Engineer at Blue Cross Blue Shield of Massachusetts (Nov 2019 to Mar 2022)",
+      "Internal Application Developer at Tracelink (Aug 2017 to Nov 2019)",
+      "Advanced Consultant at OpenText Technologies (Mar 2014 to Aug 2014)",
+      "Associate at Cognizant Technologies Solutions (Dec 2009 to Feb 2014)"
+    ],
+    "disqualified": true,
+    "disqualifiedAt": "45523.71423611111",
+    "disqualificationCategory": "Rejected candidate",
+    "disqualificationReason": "Doesn't have required qualifications",
+    "disqualificationNote": "Do you currently live in Latin Amerca? No",
+    "questions": [
+      {
+        "question": "Do you have 5+ of professional experience in DevOps?",
+        "answer": "true"
+      },
+      {
+        "question": "Have you worked with Amazon Web Services (AWS) extensively, including services such as EC2, ECS, etc.?",
+        "answer": "true"
+      },
+      {
+        "question": "Describe your experience with incident response and performance monitoring in a DevOps environment. How have you contributed to ensuring high availability and reliability of systems?",
+        "answer": "yes"
+      }
+    ],
+    "availability": "not-available"
+  },
+  {
+    "id": "d0223f9d-80c0-4436-a04c-f5a915c8f4d4",
+    "name": "Candidate 11",
+    "email": "candidate.11.10@example.com",
+    "experience": 8,
+    "location": "Brazil",
+    "bio": "Professional working as Sr Software Engineer (Obj-C & iOS exp)",
+    "jobTitle": "Sr Software Engineer (Obj-C & iOS exp)",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Brazil",
+    "creationTime": "45523.62421296296",
+    "stage": "Applied",
+    "source": "Jobs by Workable",
+    "type": "ManualCandidate",
+    "keywords": "Objective-C|AWS|Swift",
+    "educations": "H-Vtec Technical Consultant at São Paulo State University (Jan 2020 to Aug 2022)",
+    "experiences": "Developer at CRIA INCUBATOR (Jul 2023 to N/A) | Developer at SANTANDER UNIVERSIDADE (Aug 2021 to Jun 2023) | Professional Activities at Areal (Jan 2002 to N/A) | Technical Consultant at Hvtec (N/A to N/A)",
+    "education": [
+      "H-Vtec Technical Consultant at São Paulo State University (Jan 2020 to Aug 2022)"
+    ],
+    "workHistory": [
+      "Developer at CRIA INCUBATOR (Jul 2023 to N/A)",
+      "Developer at SANTANDER UNIVERSIDADE (Aug 2021 to Jun 2023)",
+      "Professional Activities at Areal (Jan 2002 to N/A)",
+      "Technical Consultant at Hvtec (N/A to N/A)"
+    ],
+    "disqualified": true,
+    "disqualifiedAt": "45523.62422453704",
+    "disqualificationCategory": "Rejected candidate",
+    "disqualificationReason": "Doesn't have required qualifications",
+    "disqualificationNote": "Do you have 5+ years of professional experience as a fullstack developer? No",
+    "questions": [
+      {
+        "question": "Describe your experience with Objective-C. And, when did you last use it?",
+        "answer": "I have experience migrating Objective-C code to Swift using SwiftUI"
+      },
+      {
+        "question": "Are you familiar with Ruby on Rails? Please describe your experience",
+        "answer": "No"
+      },
+      {
+        "question": "Which databases have you worked with? List them",
+        "answer": "Firebase, CoreData, SQL lite, postgresql"
+      },
+      {
+        "question": "Are you currently living in Latin America?",
+        "answer": "true"
+      }
+    ],
+    "availability": "not-available"
+  },
+  {
+    "id": "c9f09e09-079d-4ecb-920f-8df773abf59b",
+    "name": "Candidate 12",
+    "email": "candidate.12.11@example.com",
+    "experience": 8,
+    "location": "Chile",
+    "bio": "Professional working as Ruby + (Golang/Rust) Engineer. Skilled in Software Development, Ruby, PostgreSQL, Ruby on Rails, Front-End Development",
+    "jobTitle": "Ruby + (Golang/Rust) Engineer",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Chile",
+    "creationTime": "45523.611296296294",
+    "stage": "Applied",
+    "source": "linkedin.com free",
+    "type": "ManualCandidate",
+    "keywords": "ruby|ruby on rails|postgresql|React",
+    "educations": "Systems Engineering at Tecnológico de Estudios Superiores de Ecatepec (Feb 2009 to Aug 2009)",
+    "experiences": "Software Engineer at Cantera Digital (Mar 2024 to N/A) | Software Engineer at Arkusnexus (Jan 2023 to Mar 2023) | Software Engineer at Homie (Jan 2021 to Dec 2021) | Software Engineer at InstaFit (Jan 2019 to Feb 2019)",
+    "skills": [
+      "Software Development",
+      "Ruby",
+      "PostgreSQL",
+      "Ruby on Rails",
+      "Front-End Development",
+      "React.js"
+    ],
+    "education": [
+      "Systems Engineering at Tecnológico de Estudios Superiores de Ecatepec (Feb 2009 to Aug 2009)"
+    ],
+    "workHistory": [
+      "Software Engineer at Cantera Digital (Mar 2024 to N/A)",
+      "Software Engineer at Arkusnexus (Jan 2023 to Mar 2023)",
+      "Software Engineer at Homie (Jan 2021 to Dec 2021)",
+      "Software Engineer at InstaFit (Jan 2019 to Feb 2019)"
+    ],
+    "questions": [
+      {
+        "question": "Do you have 4+ years of professional experience as a Software Engineer?",
+        "answer": "true"
+      },
+      {
+        "question": "Do you have at least 3 years of experience with Ruby on Rails? (recent experience)",
+        "answer": "true"
+      },
+      {
+        "question": "Describe your experience with either Golang or Rust.",
+        "answer": "I don’t have direct experience with Golang or Rust. While I have extensive experience with Ruby on Rails, I haven’t had the opportunity to work with these technologies in depth. However, I am open to learning and adapting to new languages and tools as needed for the project."
+      },
+      {
+        "question": "Do you have an experience in a startup environment? Tell us about your experience.",
+        "answer": "es, I have worked in various startup environments across different industries, including fitness, fintech, and proptech. In these roles, I have gained valuable experience in adapting to dynamic and fast-paced settings, collaborating with cross-functional teams, and navigating the challenges of rapidly evolving projects. My background in these diverse fields has equipped me with a versatile skill set and a strong ability to thrive in startup environments."
+      },
+      {
+        "question": "Are you located in Latin America?",
+        "answer": "true"
+      }
+    ],
+    "availability": "immediate"
+  },
+  {
+    "id": "4f5c8db4-6164-4ab6-a2e1-be4da39763d3",
+    "name": "Candidate 13",
+    "email": "candidate.13.12@example.com",
+    "experience": 4,
+    "location": "Chile",
+    "bio": "Professional working as Ruby + (Golang/Rust) Engineer",
+    "jobTitle": "Ruby + (Golang/Rust) Engineer",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Chile",
+    "creationTime": "45523.477106481485",
+    "stage": "Applied",
+    "source": "startup.jobs",
+    "type": "ManualCandidate",
+    "keywords": "ruby|ruby on rails|postgresql|React",
+    "educations": "Bachelor Computer Science at Institute of Management Sciences (Peshawar) (N/A to N/A)",
+    "experiences": "Backend Engineer at TechNerds (N/A to N/A) | Full Stack Engineer at GreenPearls (N/A to N/A)",
+    "education": [
+      "Bachelor Computer Science at Institute of Management Sciences (Peshawar) (N/A to N/A)"
+    ],
+    "workHistory": [
+      "Backend Engineer at TechNerds (N/A to N/A)",
+      "Full Stack Engineer at GreenPearls (N/A to N/A)"
+    ],
+    "disqualified": true,
+    "disqualifiedAt": "45523.477118055554",
+    "disqualificationCategory": "Rejected candidate",
+    "disqualificationReason": "Doesn't have required qualifications",
+    "disqualificationNote": "Are you located in Latin America? No",
+    "questions": [
+      {
+        "question": "Do you have 4+ years of professional experience as a Software Engineer?",
+        "answer": "true"
+      },
+      {
+        "question": "Do you have at least 3 years of experience with Ruby on Rails? (recent experience)",
+        "answer": "true"
+      },
+      {
+        "question": "Describe your experience with either Golang or Rust.",
+        "answer": "I have experience with Golang (Go programming language), including: - Proficiency in Go programming language - Development of scalable and concurrent systems using Go's goroutine and channel features - Understanding of Go's standard library and popular frameworks like Revel, Gin, and Echo - Experience with Go's testing framework and benchmarking tools - Familiarity with Go's error handling and logging mechanisms - Knowledge of Go's performance optimization techniques I've worked on projects using Go, including: - Building high-performance web services and APIs - Developing microservices and distributed systems - Creating command-line tools and utilities - Integrating Go with other languages and systems using gRPC and protobuf I appreciate Go's simplicity, reliability, and efficiency, and I'm confident in my ability to design and develop scalable and maintainable systems&nbsp;using&nbsp;Go"
+      },
+      {
+        "question": "Do you have an experience in a startup environment? Tell us about your experience.",
+        "answer": "Yes, I have experience working in a startup environment. I've worked with several startups, collaborating closely with founding teams, engineers, and product managers to drive innovation and growth. In these fast-paced and dynamic environments, I've: - Contributed to rapid prototyping and development of new features and products - Collaborated with cross-functional teams to achieve ambitious goals and deadlines - Embraced iterative development, continuous integration, and continuous deployment (CI/CD) - Participated in agile development methodologies, such as Scrum and Kanban - Focused on delivering high-quality solutions, prioritizing customer needs and feedback - Adapted to evolving requirements, pivoting when necessary to ensure project success Startup experience has taught me to be: - Agile and flexible - Proactive and self-motivated - Collaborative and communicative - Adaptable to changing priorities and requirements - Focused on delivering results and impact I thrive in startup environments, where innovation, creativity, and speed are essential. I'm excited to bring my skills and experience to another startup&nbsp;venture!"
+      }
+    ],
+    "availability": "not-available"
+  },
+  {
+    "id": "10423c6b-a587-49ac-b7e2-3f202190fdb3",
+    "name": "Candidate 14",
+    "email": "candidate.14.13@example.com",
+    "experience": 6,
+    "location": "Brazil",
+    "bio": "Senior Full-Stack Blockchain Developer at Google. Seeking new opportunities to contribute to innovative projects and grow professionally in a dynamic team environment.",
+    "jobTitle": "Sr Software Engineer (Obj-C & iOS exp)",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Brazil",
+    "headline": "Senior Full-Stack Blockchain Developer at Google",
+    "creationTime": "45523.45554398148",
+    "stage": "Applied",
+    "source": "startup.jobs",
+    "type": "ManualCandidate",
+    "keywords": "AWS|EC2",
+    "educations": "Bachelor of Science Computer Science at University of Florida (Aug 2007 to May 2011)",
+    "experiences": "Senior Full and Stack Blockchain Developer at Google (Jan 2018 to N/A) | Stack Developer at Innovative Tech Solutions (Jun 2013 to Dec 2017) | Web Developer at Tech Pioneers (Aug 2011 to May 2013)",
+    "education": [
+      "Bachelor of Science Computer Science at University of Florida (Aug 2007 to May 2011)"
+    ],
+    "workHistory": [
+      "Senior Full and Stack Blockchain Developer at Google (Jan 2018 to N/A)",
+      "Stack Developer at Innovative Tech Solutions (Jun 2013 to Dec 2017)",
+      "Web Developer at Tech Pioneers (Aug 2011 to May 2013)"
+    ],
+    "disqualified": true,
+    "disqualifiedAt": "45523.455555555556",
+    "disqualificationCategory": "Rejected candidate",
+    "disqualificationReason": "Doesn't have required qualifications",
+    "disqualificationNote": "Are you currently living in Latin America? No",
+    "questions": [
+      {
+        "question": "Do you have 5+ years of professional experience as a fullstack developer?",
+        "answer": "true"
+      },
+      {
+        "question": "Describe your experience with Objective-C. And, when did you last use it?",
+        "answer": "Good"
+      },
+      {
+        "question": "Are you familiar with Ruby on Rails? Please describe your experience",
+        "answer": "Yes"
+      },
+      {
+        "question": "Have you worked in the orthodontal industry? Do you have experience with orthodental systems?",
+        "answer": "true"
+      },
+      {
+        "question": "Which databases have you worked with? List them",
+        "answer": "-"
+      }
+    ],
+    "availability": "not-available"
+  },
+  {
+    "id": "2df10588-e697-4326-a5cb-534adc36cf9e",
+    "name": "Candidate 15",
+    "email": "candidate.15.14@example.com",
+    "experience": 6,
+    "location": "Mexico",
+    "bio": "Senior Full-Stack Blockchain Developer at Google. Seeking new opportunities to contribute to innovative projects and grow professionally in a dynamic team environment.",
+    "jobTitle": "Senior DevOps Engineer - AWS",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Mexico",
+    "headline": "Senior Full-Stack Blockchain Developer at Google",
+    "creationTime": "45523.45340277778",
+    "stage": "Applied",
+    "source": "startup.jobs",
+    "type": "ManualCandidate",
+    "educations": "Bachelor of Science Computer Science at University of Florida (Aug 2007 to May 2011)",
+    "experiences": "Senior Full and Stack Blockchain Developer at Google (Jan 2018 to N/A) | Stack Developer at Innovative Tech Solutions (Jun 2013 to Dec 2017) | Web Developer at Tech Pioneers (Aug 2011 to May 2013)",
+    "education": [
+      "Bachelor of Science Computer Science at University of Florida (Aug 2007 to May 2011)"
+    ],
+    "workHistory": [
+      "Senior Full and Stack Blockchain Developer at Google (Jan 2018 to N/A)",
+      "Stack Developer at Innovative Tech Solutions (Jun 2013 to Dec 2017)",
+      "Web Developer at Tech Pioneers (Aug 2011 to May 2013)"
+    ],
+    "disqualified": true,
+    "disqualifiedAt": "45523.45342592592",
+    "disqualificationCategory": "Rejected candidate",
+    "disqualificationReason": "Doesn't have required qualifications",
+    "disqualificationNote": "Do you currently live in Latin Amerca? No",
+    "questions": [
+      {
+        "question": "Do you have 5+ of professional experience in DevOps?",
+        "answer": "true"
+      },
+      {
+        "question": "Have you worked with Amazon Web Services (AWS) extensively, including services such as EC2, ECS, etc.?",
+        "answer": "true"
+      },
+      {
+        "question": "Describe your experience with incident response and performance monitoring in a DevOps environment. How have you contributed to ensuring high availability and reliability of systems?",
+        "answer": "Very good"
+      }
+    ],
+    "availability": "not-available"
+  },
+  {
+    "id": "a6d7ee59-550d-4200-9b3a-fe101ca9ce62",
+    "name": "Candidate 16",
+    "email": "candidate.16.15@example.com",
+    "experience": 6,
+    "location": "Mexico",
+    "bio": "DevOps Engineer at FABIUS LABS. Seeking new opportunities to contribute to innovative projects and grow professionally in a dynamic team environment.",
+    "jobTitle": "Senior DevOps Engineer - AWS",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Mexico",
+    "headline": "DevOps Engineer at FABIUS LABS",
+    "creationTime": "45523.354525462964",
+    "stage": "Applied",
+    "source": "google.com",
+    "type": "ManualCandidate",
+    "educations": "Master'S at Florida International University (Jan 2009 to Dec 2014)",
+    "experiences": "Devops Engineer at FABIUS LABS (Oct 2021 to N/A) | Devops Engineer at (Jun 2017 to Aug 2021) | Backend Developer at TOPTAL (Aug 2014 to Mar 2017)",
+    "education": [
+      "Master'S at Florida International University (Jan 2009 to Dec 2014)"
+    ],
+    "workHistory": [
+      "Devops Engineer at FABIUS LABS (Oct 2021 to N/A)",
+      "Devops Engineer at (Jun 2017 to Aug 2021)",
+      "Backend Developer at TOPTAL (Aug 2014 to Mar 2017)"
+    ],
+    "disqualified": true,
+    "disqualifiedAt": "45523.354537037034",
+    "disqualificationCategory": "Rejected candidate",
+    "disqualificationReason": "Doesn't have required qualifications",
+    "disqualificationNote": "Do you currently live in Latin Amerca? No",
+    "questions": [
+      {
+        "question": "Do you have 5+ of professional experience in DevOps?",
+        "answer": "true"
+      },
+      {
+        "question": "Have you worked with Amazon Web Services (AWS) extensively, including services such as EC2, ECS, etc.?",
+        "answer": "true"
+      },
+      {
+        "question": "Describe your experience with incident response and performance monitoring in a DevOps environment. How have you contributed to ensuring high availability and reliability of systems?",
+        "answer": "In my role as a DevOps Engineer, I’ve been deeply involved in incident response and performance monitoring to ensure high availability and system reliability. At Fabius Labs, I led Site Reliability Engineering (SRE) efforts, where I implemented monitoring infrastructure using Prometheus and Grafana. This allowed for real-time system visibility and proactive alerts, which helped reduce downtime and resolve incidents more efficiently. I also deployed and maintained high-availability (HA) Elasticsearch clusters and MinIO object storage, ensuring data redundancy and system resilience. By continuously optimizing logging, monitoring, and clustering services, I contributed to seamless operations and improved infrastructure performance."
+      }
+    ],
+    "availability": "not-available"
+  },
+  {
+    "id": "0248d735-a78b-4391-885e-f7a97e927cc2",
+    "name": "Candidate 17",
+    "email": "candidate.17.16@example.com",
+    "experience": 12,
+    "location": "Brazil",
+    "bio": "Professional working as Sr Software Engineer (Obj-C & iOS exp). Skilled in Amazon Web Services (AWS), SQL",
+    "jobTitle": "Sr Software Engineer (Obj-C & iOS exp)",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Brazil",
+    "creationTime": "45523.270844907405",
+    "stage": "Applied",
+    "source": "linkedin.com free",
+    "type": "ManualCandidate",
+    "keywords": "AWS|Rails|Shell|Terraform",
+    "educations": "Master of Business Administration Project Management at Centro de Inovação Vincit (N/A to N/A) | Bachelor'S Information Technology and Management at Universidade Paulista (UNIP (N/A to Dec 2012) | Master of Business Administration Architecture at Unylya (N/A to Dec 2018) | Bachelor'S Systems Analysis and Development at UniCesumar (N/A to Dec 2018) | Postgraduate Software Engineering at Centro de Inovação Vincit (N/A to Dec 2019)",
+    "experiences": "Senior Software Engineer Development Iii at LOCALIZA (Jan 2020 to N/A) | Content Professor at GOVERNO DO ESTADO DO PARANÁ (Jan 2020 to Dec 2021) | Chief Information Officer at INOLIVRY (Jan 2018 to Dec 2020) | Software Architect at INTEGRAPIS START-UP (Jan 2017 to Dec 2019) | Information Technology Infrastructure Analyst at USINA ALTO ALEGRE (Jan 2015 to Dec 2021) | Partner at JC TECNOLOGIA DA INFORMAÇÃO (Jan 2011 to Dec 2015)",
+    "skills": [
+      "Amazon Web Services (AWS)",
+      "SQL"
+    ],
+    "education": [
+      "Master of Business Administration Project Management at Centro de Inovação Vincit (N/A to N/A)",
+      "Bachelor'S Information Technology and Management at Universidade Paulista (UNIP (N/A to Dec 2012)",
+      "Master of Business Administration Architecture at Unylya (N/A to Dec 2018)",
+      "Bachelor'S Systems Analysis and Development at UniCesumar (N/A to Dec 2018)",
+      "Postgraduate Software Engineering at Centro de Inovação Vincit (N/A to Dec 2019)"
+    ],
+    "workHistory": [
+      "Senior Software Engineer Development Iii at LOCALIZA (Jan 2020 to N/A)",
+      "Content Professor at GOVERNO DO ESTADO DO PARANÁ (Jan 2020 to Dec 2021)",
+      "Chief Information Officer at INOLIVRY (Jan 2018 to Dec 2020)",
+      "Software Architect at INTEGRAPIS START-UP (Jan 2017 to Dec 2019)",
+      "Information Technology Infrastructure Analyst at USINA ALTO ALEGRE (Jan 2015 to Dec 2021)",
+      "Partner at JC TECNOLOGIA DA INFORMAÇÃO (Jan 2011 to Dec 2015)"
+    ],
+    "questions": [
+      {
+        "question": "Do you have 5+ years of professional experience as a fullstack developer?",
+        "answer": "true"
+      },
+      {
+        "question": "Describe your experience with Objective-C. And, when did you last use it?",
+        "answer": "I have experience working with Objective-C, primarily in developing iOS applications before the introduction of Swift. My work involved building and maintaining features in legacy codebases, integrating with APIs, and ensuring compatibility across different iOS versions. Although I transitioned to Swift and other modern languages, the last time I actively used Objective-C was around 2016, when I contributed to a project that required maintaining an existing Objective-C codebase while gradually migrating to Swift."
+      },
+      {
+        "question": "Are you familiar with Ruby on Rails? Please describe your experience",
+        "answer": "Yes, I am familiar with Ruby on Rails. I have used Ruby on Rails to build several web applications, primarily focused on delivering quick and scalable solutions. My experience includes: Web Application Development: I’ve developed full-stack web applications using Ruby on Rails, including both front-end and back-end components. This involved setting up the MVC architecture, managing routing, and integrating views with ERB and Haml. Database Management: I’ve worked with Active Record to manage database interactions, handling migrations, validations, and relationships between models efficiently. RESTful APIs: I’ve created and consumed RESTful APIs within Ruby on Rails applications, ensuring that the applications adhere to RESTful principles and best practices. Testing: I’ve employed testing frameworks like RSpec and Capybara to ensure that the applications are robust and error-free. Performance Optimization: I’ve also been involved in optimizing Rails applications, including database indexing, query optimization, and implementing background jobs with Sidekiq and Redis to handle asynchronous tasks. My experience with Ruby on Rails has been instrumental in delivering high-quality web applications within tight deadlines, leveraging the framework's capabilities to develop maintainable and scalable software."
+      },
+      {
+        "question": "Have you worked in the orthodontal industry? Do you have experience with orthodental systems?",
+        "answer": "true"
+      },
+      {
+        "question": "Which databases have you worked with? List them",
+        "answer": "I've worked with several databases, including: MySQL SQL Server PostgreSQL MongoDB Oracle SQLite Redis Elasticsearch"
+      },
+      {
+        "question": "Are you currently living in Latin America?",
+        "answer": "true"
+      }
+    ],
+    "availability": "immediate"
+  },
+  {
+    "id": "71b5529e-29f7-442c-a31b-c7e2bdbcd09b",
+    "name": "Candidate 18",
+    "email": "candidate.18.17@example.com",
+    "experience": 16,
+    "location": "Colombia",
+    "bio": "Professional working as Lead Generator. Seeking new opportunities to contribute to innovative projects and grow professionally in a dynamic team environment.",
+    "jobTitle": "Lead Generator",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Colombia",
+    "creationTime": "45522.848599537036",
+    "stage": "Sourced",
+    "source": "Uploaded",
+    "type": "UploadedCandidate",
+    "educations": "French and Foreign Language at Alliance Française (Sep 2021 to Nov 2021) | Advertising at Pontifical Bolivarian University (Jan 2020 to Jan 2020) | Advertising and Public Relations at University of the Basque Country (Jan 2017 to Jan 2018) | Advertising and Communications at Western Institute of Technology and Higher Education (Aug 2015 to May 2021)",
+    "experiences": "Software Market Specialist at Slashdot Media (Sep 2023 to N/A) | Client Success Executive at Ecom Health Center (Apr 2023 to Jul 2023) | People Operations Coordinator at Wexpand (Jan 2023 to Feb 2023) | Team Lead at CIENCE (May 2022 to Dec 2022) | Sdr at CIENCE (Jun 2021 to May 2022) | Apprentice Consultant and Marketing at CUE ITESO (Aug 2020 to May 2021) | Owner at Freelance (Jul 2018 to Jan 2020) | Customer Service Representative at Teleperformance (Jan 2015 to Jun 2015)",
+    "education": [
+      "French and Foreign Language at Alliance Française (Sep 2021 to Nov 2021)",
+      "Advertising at Pontifical Bolivarian University (Jan 2020 to Jan 2020)",
+      "Advertising and Public Relations at University of the Basque Country (Jan 2017 to Jan 2018)",
+      "Advertising and Communications at Western Institute of Technology and Higher Education (Aug 2015 to May 2021)"
+    ],
+    "workHistory": [
+      "Software Market Specialist at Slashdot Media (Sep 2023 to N/A)",
+      "Client Success Executive at Ecom Health Center (Apr 2023 to Jul 2023)",
+      "People Operations Coordinator at Wexpand (Jan 2023 to Feb 2023)",
+      "Team Lead at CIENCE (May 2022 to Dec 2022)",
+      "Sdr at CIENCE (Jun 2021 to May 2022)",
+      "Apprentice Consultant and Marketing at CUE ITESO (Aug 2020 to May 2021)",
+      "Owner at Freelance (Jul 2018 to Jan 2020)",
+      "Customer Service Representative at Teleperformance (Jan 2015 to Jun 2015)"
+    ],
+    "availability": "immediate"
+  },
+  {
+    "id": "a9e14829-c730-44f2-82a4-eb679fce9a60",
+    "name": "Candidate 19",
+    "email": "candidate.19.18@example.com",
+    "experience": 10,
+    "location": "Colombia",
+    "bio": "Professional working as Lead Generator. Seeking new opportunities to contribute to innovative projects and grow professionally in a dynamic team environment.",
+    "jobTitle": "Lead Generator",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Colombia",
+    "creationTime": "45522.848599537036",
+    "stage": "Sourced",
+    "source": "Uploaded",
+    "type": "UploadedCandidate",
+    "educations": "Bachelor of Engineering Be, Ingeniería Civil at Rafael Urdaneta University (Jan 2017 to Jan 2024)",
+    "experiences": "Sales Development Representative at RealityCreator.com (Mar 2024 to N/A) | Team Lead at MADE OMNI (Jan 2022 to Mar 2024) | Outreach Specialist at MADE OMNI (Sep 2021 to Jan 2022) | Tutor at Self-employed (Jan 2019 to Aug 2021) | English Teacher at Centro Electronico de Idiomas (Nov 2018 to Dec 2019)",
+    "education": [
+      "Bachelor of Engineering Be, Ingeniería Civil at Rafael Urdaneta University (Jan 2017 to Jan 2024)"
+    ],
+    "workHistory": [
+      "Sales Development Representative at RealityCreator.com (Mar 2024 to N/A)",
+      "Team Lead at MADE OMNI (Jan 2022 to Mar 2024)",
+      "Outreach Specialist at MADE OMNI (Sep 2021 to Jan 2022)",
+      "Tutor at Self-employed (Jan 2019 to Aug 2021)",
+      "English Teacher at Centro Electronico de Idiomas (Nov 2018 to Dec 2019)"
+    ],
+    "availability": "immediate"
+  },
+  {
+    "id": "8f1d0600-380c-4e5d-a458-e0bcf71218c4",
+    "name": "Candidate 20",
+    "email": "candidate.20.19@example.com",
+    "experience": 16,
+    "location": "Colombia",
+    "bio": "Professional working as Lead Generator. Seeking new opportunities to contribute to innovative projects and grow professionally in a dynamic team environment.",
+    "jobTitle": "Lead Generator",
+    "jobDepartment": "Engineering",
+    "jobLocation": "Colombia",
+    "creationTime": "45522.848599537036",
+    "stage": "Sourced",
+    "source": "Uploaded",
+    "type": "UploadedCandidate",
+    "educations": "Economia, Gestão at Federal University of Juiz de Fora (Jan 2018 to Jan 2022)",
+    "experiences": "Business Development Manager at WEPayments (Apr 2024 to N/A) | Global Sales Development Representative at FacilitaPay (Jan 2023 to Apr 2024) | Sales Development Representative at FaçaAgora! (Mar 2021 to Jan 2023) | Diretor De Projetos at Campe Consultoria Jr. (Jul 2020 to Dec 2020) | Gerente De Negócios at Campe Consultoria Jr. (Feb 2020 to Jul 2020) | Gerente De Projetos at Campe Consultoria Jr. (Jan 2020 to Jul 2020) | Bolsista De Iniciação Científica at Universidade Federal de Juiz de Fora (Aug 2019 to Feb 2020) | Consultor De Projetos at Campe Consultoria Jr. (Aug 2019 to Jan 2020)",
+    "education": [
+      "Economia, Gestão at Federal University of Juiz de Fora (Jan 2018 to Jan 2022)"
+    ],
+    "workHistory": [
+      "Business Development Manager at WEPayments (Apr 2024 to N/A)",
+      "Global Sales Development Representative at FacilitaPay (Jan 2023 to Apr 2024)",
+      "Sales Development Representative at FaçaAgora! (Mar 2021 to Jan 2023)",
+      "Diretor De Projetos at Campe Consultoria Jr. (Jul 2020 to Dec 2020)",
+      "Gerente De Negócios at Campe Consultoria Jr. (Feb 2020 to Jul 2020)",
+      "Gerente De Projetos at Campe Consultoria Jr. (Jan 2020 to Jul 2020)",
+      "Bolsista De Iniciação Científica at Universidade Federal de Juiz de Fora (Aug 2019 to Feb 2020)",
+      "Consultor De Projetos at Campe Consultoria Jr. (Aug 2019 to Jan 2020)"
+    ],
+    "availability": "immediate"
+  }
+]
