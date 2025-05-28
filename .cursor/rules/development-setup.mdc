@@ -1,0 +1,70 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Development Setup and Workflow
+
+## Prerequisites
+- Node.js 18+ (recommended: Node.js 22 as specified in [.nvmrc](mdc:.nvmrc))
+- **pnpm** (required - this project uses pnpm exclusively)
+- OpenAI API key or Anthropic API key
+
+## Initial Setup
+1. **Install dependencies**: `pnpm install`
+2. **Environment setup**: Copy `.env.local.example` to `.env.local` and configure
+3. **Data conversion**: `pnpm run convert-data` (if using Excel data)
+4. **Type checking**: `pnpm run type-check`
+
+## Development Commands (pnpm only)
+```bash
+pnpm dev              # Start development server with Turbopack
+pnpm build            # Build for production
+pnpm start            # Start production server
+pnpm lint             # Run ESLint
+pnpm test             # Run Jest tests
+pnpm test:watch       # Run tests in watch mode
+pnpm test:coverage    # Generate test coverage
+pnpm type-check       # TypeScript type checking
+pnpm convert-data     # Convert Excel to JSON using tsx
+```
+
+## Project Structure for Development
+```
+src/
+├── app/                    # Next.js 15 App Router
+│   ├── api/score/         # API endpoints
+│   ├── page.tsx           # Main page
+│   └── layout.tsx         # Root layout
+├── components/
+│   └── ui/                # shadcn/ui components
+└── lib/
+    ├── types.ts           # TypeScript definitions
+    ├── schemas.ts         # Zod validation schemas
+    ├── ai-service.ts      # AI integration
+    ├── data-processor.ts  # Data processing
+    └── prompts.ts         # AI prompts
+```
+
+## Testing Setup
+- **Framework**: Jest with Testing Library
+- **Configuration**: [jest.config.js](mdc:jest.config.js) and [jest.setup.js](mdc:jest.setup.js)
+- **Environment**: jsdom for React component testing
+- **Commands**: Use `pnpm test` for running tests
+
+## Build and Deployment
+- **Build command**: `pnpm build`
+- **Output**: `.next/` directory
+- **Static export**: Configured in [next.config.ts](mdc:next.config.ts)
+- **Environment**: Production builds require all environment variables
+
+## Data Management
+- **Source data**: Excel file in `data/` directory
+- **Processed data**: JSON format in `data/candidates.json`
+- **Conversion script**: [scripts/convert-excel.ts](mdc:scripts/convert-excel.ts)
+- **Command**: `pnpm run convert-data` using tsx for TypeScript execution
+
+## Important Notes
+- **Always use pnpm** - npm or yarn commands will not work properly
+- Lock file is [pnpm-lock.yaml](mdc:pnpm-lock.yaml) - commit this file
+- Use `pnpm dlx` for one-time package execution (like tsx in convert-data script)

@@ -1,0 +1,45 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Candidate Screener Project Overview
+
+## Project Description
+This is a TypeScript-first Next.js 15 application that uses AI to rank and score candidates based on job descriptions. Built with modern React 19 features, Vercel AI SDK, and shadcn/ui components.
+
+## Package Manager
+**IMPORTANT**: This project uses **pnpm** as the package manager. Always use pnpm commands:
+- `pnpm install` - Install dependencies
+- `pnpm dev` - Start development server
+- `pnpm build` - Build for production
+- `pnpm test` - Run tests
+- `pnpm lint` - Run linting
+- `pnpm convert-data` - Convert Excel data to JSON
+
+## Key Files and Structure
+- Main configuration: [package.json](mdc:package.json)
+- TypeScript config: [tsconfig.json](mdc:tsconfig.json)
+- Next.js config: [next.config.ts](mdc:next.config.ts)
+- Main application entry: [src/app/page.tsx](mdc:src/app/page.tsx)
+- API endpoint: [src/app/api/score/route.ts](mdc:src/app/api/score/route.ts)
+- Type definitions: [src/lib/types.ts](mdc:src/lib/types.ts)
+- AI service integration: [src/lib/ai-service.ts](mdc:src/lib/ai-service.ts)
+
+## Tech Stack
+- **Framework**: Next.js 15 with App Router
+- **Language**: TypeScript 5+ with strict configuration
+- **UI**: shadcn/ui components + Tailwind CSS
+- **AI**: Vercel AI SDK with OpenAI/Anthropic support
+- **Validation**: Zod for runtime type checking
+- **Package Manager**: pnpm
+- **Testing**: Jest + Testing Library
+
+## Development Workflow
+1. Use `pnpm run dev` to start development server
+2. All code should be TypeScript with strict typing
+3. Use shadcn/ui components for UI elements
+4. Follow the existing project structure in src/
+5. API routes go in src/app/api/
+6. Components go in src/components/
+7. Utilities and services go in src/lib/

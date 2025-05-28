@@ -1,0 +1,49 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# AI Integration Guidelines
+
+## AI Service Architecture
+- Main AI integration is in [src/lib/ai-service.ts](mdc:src/lib/ai-service.ts)
+- Uses Vercel AI SDK for provider abstraction
+- Supports both OpenAI and Anthropic providers
+- Implements structured output with Zod schema validation
+
+## Provider Configuration
+- Provider selection via environment variables
+- Default models: `gpt-4.1-mini` for OpenAI, `claude-3-opus` for Anthropic
+- Configuration should be flexible and environment-based
+- Check existing patterns in the AI service implementation
+
+## Prompt Engineering
+- Prompts are defined in [src/lib/prompts.ts](mdc:src/lib/prompts.ts)
+- Use structured prompts for consistent AI responses
+- Include clear instructions for scoring criteria
+- Implement proper context and examples in prompts
+
+## Error Handling and Retry Logic
+- Implement exponential backoff for rate limits
+- Handle provider-specific errors gracefully
+- Use proper TypeScript error types
+- Log errors appropriately for debugging
+
+## Batch Processing
+- Process candidates in configurable batches
+- Implement rate limiting to respect API limits
+- Use caching where appropriate (Next.js unstable_cache)
+- Monitor processing time and costs
+## Response Validation
+- All AI responses must be validated with Zod schemas
+- Implement fallback scoring when AI responses are invalid
+- Use branded types for scores and IDs
+- Ensure type safety throughout the AI pipeline
+
+## Environment Variables
+Required environment variables for AI integration:
+- `OPENAI_API_KEY` or `ANTHROPIC_API_KEY`
+- `LLM_PROVIDER` (openai | anthropic)
+- `LLM_MODEL` (model-specific)
+- `CACHE_TTL` for caching configuration
+

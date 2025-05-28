@@ -1,0 +1,49 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Coding Standards and Conventions
+
+## TypeScript Standards
+- Use strict TypeScript configuration as defined in [tsconfig.json](mdc:tsconfig.json)
+- All code must be fully typed - no `any` types
+- Use branded types for IDs and scores when appropriate
+- Prefer discriminated unions for error handling
+- Use Zod schemas for runtime validation that match TypeScript types
+
+## Code Style
+- Use double quotes for strings
+- No comments in code unless absolutely necessary for complex logic
+- Use meaningful variable and function names
+- Prefer const over let, avoid var
+- Use arrow functions for inline functions
+- Use template literals for string interpolation
+
+## React/Next.js Patterns
+- Use Server Components by default in Next.js 15
+- Use Client Components only when necessary (interactivity, hooks)
+- Implement proper error boundaries and suspense boundaries
+- Use React 19 features and hooks appropriately
+- Follow the App Router patterns from Next.js 15
+
+## Component Structure
+- Place reusable UI components in [src/components/ui/](mdc:src/components/ui)
+- Use shadcn/ui components as the foundation
+- Implement proper TypeScript interfaces for component props
+- Use Tailwind CSS for styling
+- Follow the component patterns established in the codebase
+
+## API Development
+- API routes should be in [src/app/api/](mdc:src/app/api)
+- Use proper HTTP status codes
+- Implement comprehensive error handling
+- Use Zod for request/response validation
+- Follow the patterns in [src/app/api/score/route.ts](mdc:src/app/api/score/route.ts)
+
+## Dependencies and Package Management
+- Always use `pnpm` for package management
+- Keep dependencies up to date
+- Prefer exact versions for critical dependencies
+- Use dev dependencies appropriately
+- Check [package.json](mdc:package.json) for existing patterns
