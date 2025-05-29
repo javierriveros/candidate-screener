@@ -12,7 +12,7 @@ alwaysApply: false
 
 ## Initial Setup
 1. **Install dependencies**: `pnpm install`
-2. **Environment setup**: Copy `.env.local.example` to `.env.local` and configure
+2. **Environment setup**: Copy `.env.example` to `.env` and configure
 3. **Data conversion**: `pnpm run convert-data` (if using Excel data)
 4. **Type checking**: `pnpm run type-check`
 

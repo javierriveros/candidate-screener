@@ -45,7 +45,7 @@ A TypeScript-first Next.js 15 application that uses AI to rank and score candida
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/javierriveros/candidate-screener.git
    cd candidate-screener
    ```
 
@@ -55,7 +55,7 @@ A TypeScript-first Next.js 15 application that uses AI to rank and score candida
    ```
 
 3. **Set up environment variables**
-   Create a `.env.local` file:
+   Create a `.env` file:
    ```env
    # Required: Choose one AI provider
    OPENAI_API_KEY=your_openai_api_key_here
